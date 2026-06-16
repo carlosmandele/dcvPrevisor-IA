@@ -1,2 +1,2 @@
 # dcvPrevisor IA
-Sistema alimentado por Inteligência artificial para detecção  de doenças cardiovasculares
+Previsão de diagnostico de doenças cardiovasculares usando algoritmos de Machine Learning
